@@ -1,8 +1,2 @@
-{
-  "code": 200,
-  "message": "数据查询成功!serverPort8001",
-  "data": {
-    "id": 1234,
-    "serial": "dxs02"
-  }
-}
+config:
+  info: hello
